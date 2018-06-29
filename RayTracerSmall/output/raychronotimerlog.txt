@@ -1,0 +1,573 @@
+Duration: 1689
+Duration: 1665
+Duration: 1692
+Duration: 1169
+Duration: 1183
+Duration: 1209
+Duration: 1157
+Duration: 1172
+Duration: 1227
+Duration: 1240
+Duration: 1217
+Duration: 1257
+Duration: 1272
+Duration: 1163
+Duration: 1164
+Duration: 1168
+Duration: 1160
+Duration: 1583
+Duration: 1533
+Duration: 1560
+Duration: 1602
+Duration: 1257
+Duration: 1267
+Duration: 1260
+Duration: 1284
+Duration: 1539
+Duration: 1568
+Duration: 1349
+Duration: 1335
+Duration: 1300
+Duration: 1326
+Duration: 1138
+Duration: 1192
+Duration: 1260
+Duration: 1165
+Duration: 1166
+Duration: 1167
+Duration: 1179
+Duration: 1320
+Duration: 1289
+Duration: 1377
+Duration: 1355
+Duration: 1199
+Duration: 1218
+Duration: 1181
+Duration: 1078
+Duration: 45
+Duration: Duration: 12001253
+
+Duration: 1259
+Duration: Duration: 18081782
+
+Duration: 1783
+Duration: 1457
+Duration: 1528
+Duration: 1518
+Duration: Duration: 16461697
+
+uration: Duration: 2422
+
+Duration: 16
+Duration: 19
+Duration: Duration: 1718
+
+Duration: 17
+Duration: 21
+Duration: Duration: 1718
+
+Duration: 16
+Duration: 15
+Duration: 17
+Duration: 18
+Duration: 20
+Duration: 16
+Duration: 19
+Duration: 18
+Duration: 17
+Duration: 15
+Duration: 15
+Duration: 17
+Duration: 16
+Duration: Duration: 2422
+
+Duration: 17
+Duration: 17
+Duration: 16
+Duration: Duration: 2226
+
+Duration: 19
+Duration: 18
+Duration: 19
+Duration: 19
+Duration: 17
+Duration: 15
+Duration: 19
+Duration: 17
+Duration: 17
+Duration: 23
+Duration: Duration: 17
+22
+Duration: 18
+Duration: 16
+Duration: Duration: 2019
+
+Duration: 17
+Duration: 16
+Duration: Duration: 1817
+
+Duration: 20
+Duration: 19
+Duration: 35
+Duration: 22
+Duration: 24
+Duration: 21
+Duration: 26
+Duration: 21
+Duration: Duration: 25
+Duration: 20
+22
+Duration: 24
+Duration: 21
+Duration: 20
+Duration: 18
+Duration: 19
+Duration: 18
+Duration: Duration: 1817
+
+Duration: 17
+Duration: 30
+Duration: 33
+Duration: 19
+Duration: 17
+Duration: 18
+Duration: 17
+Duration: 23
+Duration: 17
+Duration: 24
+Duration: Duration: 1718
+
+Duration: 16
+Duration: Duration: 19611950
+
+Duration: 1999
+Duration: 2005
+Duration: 1468
+Duration: 1514
+Duration: 1523
+Duration: 1513
+Duration: 1427
+Duration: 1428
+Duration: 1430
+Duration: 1439
+Duration: 1401
+Duration: 1400
+Duration: 1430
+Duration: 1440
+Duration: 1443
+Duration: 1412
+Duration: 1462
+Duration: 1480
+Duration: 1787
+Duration: 1747
+Duration: 1802
+Duration: 1787
+Duration: 1544
+Duration: 1566
+Duration: 1571
+Duration: 1584
+Duration: Duration: 12471246
+
+Duration: 1241
+Duration: 1272
+Duration: 1222
+Duration: 1228
+Duration: 1251
+Duration: 1252
+Duration: Duration: 11991202
+
+Duration: 1215
+Duration: 1221
+Duration: Duration: 2139Duration: 
+21122148
+
+Duration: 2143
+Duration: 1523
+Duration: 1530
+Duration: 1534
+Duration: 1549
+Duration: 1521Duration: 
+1521
+Duration: 1530
+Duration: 1551
+Duration: 1575
+Duration: 1617
+Duration: 1643
+Duration: 1645
+Duration: 1051
+Duration: 1050
+Duration: 1047
+Duration: 1055
+Duration: 29
+Duration: 29
+Duration: 25
+Duration: 29
+Duration: 27
+Duration: 26
+Duration: 27
+Duration: 27
+Duration: 35
+Duration: 39
+Duration: 35
+Duration: 60
+Duration: Duration: 2840
+
+Duration: 40
+Duration: 39
+Duration: Duration: 18
+21
+Duration: 18
+Duration: 20
+Duration: 30
+Duration: 31
+Duration: 40
+Duration: 29
+Duration: 28
+Duration: 27
+Duration: 34
+Duration: 38
+Duration: 28
+Duration: 32
+Duration: 42
+Duration: 27
+Duration: 48
+Duration: 41
+Duration: 43
+Duration: 54
+Duration: 21
+Duration: 19
+Duration: 25
+Duration: 17
+Duration: 217
+Duration: 217
+Duration: 226
+Duration: 232
+Duration: 216
+Duration: 194
+Duration: 226
+Duration: 248
+Duration: 190
+Duration: 218
+Duration: 184
+Duration: 223
+Duration: 210
+Duration: 215
+Duration: 203
+Duration: 212
+Duration: 189
+Duration: 178
+Duration: 191
+Duration: 166
+Duration: 29
+Duration: 31
+Duration: 31
+Duration: 30
+Duration: 43
+Duration: 46
+Duration: 50
+Duration: 30
+Duration: 31
+Duration: 27
+Duration: 32
+Duration: 41
+Duration: 37
+Duration: 29
+Duration: 47
+Duration: 34
+Duration: 20
+Duration: 20
+Duration: 18
+Duration: 18
+Duration: 25
+Duration: 28
+Duration: 27
+Duration: 26
+Duration: 29
+Duration: 25
+Duration: 38
+Duration: 26
+Duration: 30
+Duration: 31
+Duration: 28
+Duration: 31
+Duration: 27
+Duration: 28
+Duration: 27
+Duration: 26
+Duration: 16
+Duration: 14
+Duration: 26
+Duration: 19
+Duration: 28
+Duration: 31
+Duration: 29
+Duration: 27
+Duration: 24
+Duration: 28
+Duration: 31
+Duration: 30
+Duration: 33
+Duration: 26
+Duration: 25
+Duration: 26
+Duration: 25
+Duration: 37
+Duration: 27
+Duration: 27
+Duration: 24
+Duration: 26
+Duration: 14
+Duration: 15
+Duration: 27
+Duration: 27
+Duration: 29
+Duration: 28
+Duration: 27
+Duration: Duration: 4237
+
+Duration: 29
+Duration: 26
+Duration: Duration: 2726
+
+Duration: 26
+Duration: 32
+Duration: 33
+Duration: 38
+Duration: 25
+Duration: 34
+Duration: Duration: 4141
+
+Duration: 39
+Duration: 37
+Duration: 37
+Duration: 34
+Duration: 27
+Duration: 26
+Duration: 31
+Duration: 39
+Duration: 24
+Duration: 45
+Duration: 38
+Duration: 29
+Duration: 25
+Duration: 25
+Duration: 26
+Duration: 25
+Duration: 29
+Duration: 49
+Duration: 26
+Duration: 61
+Duration: 44
+Duration: 18
+Duration: 49
+Duration: 14
+Duration: 21
+Duration: 25
+Duration: Duration: 33
+36
+Duration: 27
+Duration: 36
+Duration: 32
+Duration: 27
+Duration: 29
+Duration: 24
+Duration: 25
+Duration: 40
+Duration: 26
+Duration: 32
+Duration: 28
+Duration: 46
+Duration: 30
+Duration: 17
+Duration: 25
+Duration: 49
+Duration: 14
+Duration: 31
+Duration: 29
+Duration: 36
+Duration: 30
+Duration: 26
+Duration: Duration: 2627
+
+Duration: 27
+Duration: 26
+Duration: 25
+Duration: 26
+Duration: 27
+Duration: 26
+Duration: 31
+Duration: 26
+Duration: 27
+Duration: 17
+Duration: 17
+Duration: 15
+Duration: 16
+Duration: 34
+Duration: 36
+Duration: 44
+Duration: 26
+Duration: 27
+Duration: 34
+Duration: 29
+Duration: 29
+Duration: 26
+Duration: 27
+Duration: 26
+Duration: 28
+Duration: 36
+Duration: 34
+Duration: 32
+Duration: 24
+Duration: Duration: 27
+26
+Duration: 25
+Duration: 27
+Duration: 27
+Duration: 29
+Duration: 26
+Duration: 28
+Duration: 17
+Duration: 16
+Duration: 16
+Duration: 15
+Duration: 25
+Duration: 43
+Duration: 38
+Duration: 26
+Duration: 34
+Duration: 27
+Duration: 45
+Duration: 27
+Duration: 33
+Duration: 31
+Duration: 24
+Duration: 26
+Duration: 29
+Duration: Duration: 2826
+
+Duration: 28
+Duration: 16
+Duration: 23
+Duration: Duration: 1516
+
+Duration: 29
+Duration: 34
+Duration: 25
+Duration: 28
+Duration: 38
+Duration: 25
+Duration: 35
+Duration: 28
+Duration: 26
+Duration: 25
+Duration: 24
+Duration: 28
+Duration: 28
+Duration: 26
+Duration: 25
+Duration: 25
+Duration: 20
+Duration: 14
+Duration: 16
+Duration: 17
+Duration: 35
+Duration: 35
+Duration: 43
+Duration: 28
+Duration: 27
+Duration: 24
+Duration: 25
+Duration: 25
+Duration: 27
+Duration: 26
+Duration: 26
+Duration: 28
+Duration: 27
+Duration: 25
+Duration: 26
+Duration: 27
+Duration: 14
+Duration: 17
+Duration: 17
+Duration: 15
+Duration: 30
+Duration: 30
+Duration: 28
+Duration: 26
+Duration: 28
+Duration: Duration: 2725
+
+Duration: 29
+Duration: 30
+Duration: 27
+Duration: 26
+Duration: 28
+Duration: 26
+Duration: 25
+Duration: 34
+Duration: 40
+Duration: 15
+Duration: 15
+Duration: 17
+Duration: 13
+Duration: 30
+Duration: 28
+Duration: 44
+Duration: 42
+Duration: 28
+Duration: 41
+Duration: 28
+Duration: 29
+Duration: 29
+Duration: 35
+Duration: 32
+Duration: 29
+Duration: 37
+Duration: 31
+Duration: 47
+Duration: 33
+Duration: 18
+Duration: 19
+Duration: 18
+Duration: 17
+
+Duration: 235
+Duration: 247
+Duration: 229
+Duration: 238
+Duration: Duration: 247250
+
+Duration: 231
+Duration: 233
+Duration: 287
+Duration: 300
+Duration: 261
+Duration: 272
+Duration: Duration: 273267
+
+Duration: 260
+Duration: 246
+Duration: 110
+Duration: 112
+Duration: 108
+Duration: 109
+Duration: 26
+Duration: 26
+Duration: 25
+Duration: 27
+Duration: 26
+Duration: Duration: 2624
+
+Duration: 25
+Duration: 26
+Duration: 24
+Duration: 24
+Duration: 27
+Duration: Duration: 3027
+
+Duration: 30
+Duration: 28
+Duration: 17
+Duration: 24
+Duration: Duration: 1916
+

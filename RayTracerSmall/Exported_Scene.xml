@@ -1,0 +1,36 @@
+<Scene>
+  <GameObject>
+    <Type>Sphere</Type>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>-50</Z>
+    <Radius>1</Radius>
+    <Reflectivity>1</Reflectivity>
+    <Transparency>0</Transparency>
+    <ColourR>1</ColourR>
+    <ColourG>0</ColourG>
+    <ColourB>0</ColourB>
+  </GameObject>
+  <GameObject>
+    <Type>Sphere</Type>
+    <X>0</X>
+    <Y>-10000</Y>
+    <Z>-50</Z>
+    <Radius>9000</Radius>
+    <Reflectivity>1</Reflectivity>
+    <Transparency>0</Transparency>
+    <ColourR>0.5019608</ColourR>
+    <ColourG>0.5019608</ColourG>
+    <ColourB>1</ColourB>
+  </GameObject>
+  <Settings>
+    <NumberOfFrames>5</NumberOfFrames>
+    <SceneWidth>640</SceneWidth>
+    <SceneHeight>480</SceneHeight>
+    <MultiThreading>1</MultiThreading>
+    <CameraX>0</CameraX>
+    <CameraY>0</CameraY>
+    <CameraZ>0</CameraZ>
+    <NotionOfTime>1</NotionOfTime>
+  </Settings>
+</Scene>
